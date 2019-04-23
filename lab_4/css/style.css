@@ -1,0 +1,8 @@
+.btn-danger a, btn-danger:visited {
+    color: white;
+}
+
+.btn-danger {
+    width: 100%;
+
+}
